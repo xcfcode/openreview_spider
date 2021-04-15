@@ -4,7 +4,7 @@ Recently, many researchers focus on **Scholarly Document Processing**. I have re
 I find that current works mainly consider original papers, peer reviews without dive into author response (rebuttal), which is also an important part of the life-cycle of the paper submission.
 So I came out with this toy example (hasn't been carefully checked).
 
-This repo may facilitate some downstream tasks like **meta-review generation** or **rebuttal-aware meta-review generation**.
+This repo may facilitate some downstream tasks like **meta-review generation** or **rebuttal-aware meta-review generation** (*Please pay attention to ethical issues*).
 
 ## Env
 Install [feapder](https://github.com/Boris-code/feapder)
