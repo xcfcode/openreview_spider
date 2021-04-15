@@ -1,7 +1,7 @@
 # OpenReview (Meta-review, Review, Rebuttal) Spider
 This is a toy example that aims to extract ICLR [OpenReview](https://openreview.net/) reviews with associated author responses (rebuttal) and meta-review.
 Recently, many researchers focus on **Scholarly Document Processing**. I have read some papers on [Review-related SDP](https://github.com/xcfcode/What-I-Have-Read/blob/master/Others.md#review-related-sdp).
-I find that current works mainly consider original papers, peer reviews without dive into author response (rebuttal), which is also an important part of the life-cycle of the paper submission.
+I find that current works mainly consider original papers, peer reviews without diving into author response (rebuttal), which is also an important part of the life-cycle of the paper submission.
 So I came out with this toy example (hasn't been carefully checked).
 
 This repo may facilitate some downstream tasks like **meta-review generation** or **rebuttal-aware meta-review generation** (*Please pay attention to ethical issues*).
